@@ -1,3 +1,4 @@
 Rebased file
 now we are going to study git squash.
 or merge --squash.
+This is use of git rebase -i HEAD~2
