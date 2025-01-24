@@ -1,2 +1,3 @@
 Rebased file
+now we are going to study git squash.
 
